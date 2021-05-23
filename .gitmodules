@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dodgr"]
+	path = dodgr
+	url = https://github.com/atfutures/dodgr
+	shallow = true
+	registered = true
+[submodule "gtfsrouter"]
+	path = gtfsrouter
+	url = https://github.com/atfutures/gtfs-router
+	shallow = true
+	registered = true

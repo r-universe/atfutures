@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dodgr",
+    "oncran": true
+  },
+  {
+    "package": "gtfsrouter",
+    "oncran": true
+  }
+]
