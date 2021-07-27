@@ -1,0 +1,8 @@
+[
+  {
+    "package": "osmdata",
+    "url": "https://github.com/ropensci/osmdata",
+    "via": ["dodgr"],
+    "from": "dodgr"
+  }
+]
