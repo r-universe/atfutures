@@ -13,8 +13,3 @@
 	url = https://github.com/atfutures/gtfs-router
 	shallow = true
 	registered = true
-[submodule "osmdata"]
-	path = osmdata
-	url = https://github.com/ropensci/osmdata
-	shallow = true
-	registered = false
